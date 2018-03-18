@@ -3,7 +3,7 @@
 ### Getting Started
 
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
+> git clone https://github.com/amandajmunch/youtube-player.git
 > cd ReduxSimpleStarter
 > npm install
 > npm start
